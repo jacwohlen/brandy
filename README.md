@@ -1,4 +1,4 @@
-# Brand JACW
+# Brandy JACW
 
 Dieses Repository beinhaltet alle Logos, Slogans, Color Schemas des JAC Wohlen.
 
